@@ -6,7 +6,7 @@ utf8
 viewport content=width=device-width, initial-scale=one
 title covid strings11 first round
 filename=covid strings11 first round.js
-first round =(highest overall seed, second highest seed, third highest Seed, fourth highest seed,fifth highest seed,third low seed, second low seed,lowest overall seed)
+first round =(highest overall seed, second highest seed, third highest seed, fourth highest seed,fifth highest seed,third low seed, second low seed,lowest overall seed)
 highest overall seed = seed1
 second highest seed=seed2
 third highest seed=seed3
@@ -16,7 +16,7 @@ third lowest seed= seed6
 second lowest seed = seed7
 lowest overall seed = seed8
 addeventlistener(domcontentloaded, () => {
-bracket = eetelementbyid(bracket);
+bracket =getelementbyid(bracket);
 create matchup(violet relivers versus black night riders)
 create matchup(purple bravehearts versus turquoise waves)
 create matchup(orange rna messengers versus burgundy rebuilders)
@@ -26,7 +26,7 @@ document.createelement
 matchupdiv.classname=(matchup)
 matchupdiv.innerHTML =[matchup]
 rounddiv.appendchild(matchup)
-Matchup toggle code
+matchup toggle code
 if (event.target.classlist.contains(team)) 
 return matchup
 else 
@@ -65,7 +65,7 @@ if black score>=forty:
 console.log(black night riders win)
 else:
 console.log(violet relivers win)
-if turquoise Score>=forty:
+if turquoise score>=forty:
 console.log(turquoise waves win)
 else:
 console.log(purple bravehearts win)
