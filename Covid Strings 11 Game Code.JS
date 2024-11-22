@@ -1,31 +1,31 @@
-doc. type .html>
-<script>
-    Filename= Covid Strings11.JS
-    Java.Awt Graphics
-This.Img=CreateElement(Covid)
-Img.Src=Http://Google.Com/Intl/En_com/Images/Logo_plain.Png
-Var Src=Document GetElementByID(Header)
-Src.AppendChild(This.Img)
-<Div Id=Header></Div>
-Var Audio=New Audio (Audio_file Mp3)
-Audio.Play 
-JButton Random Button
-New JButton (Set Random Color)
-Private Final J Button Option Button=
-New J Button (Change Color)
-Public Fun With Graphics(){
-JPanel Color Panel=new J Panel();
-This Add (Color.Panel, Border Layout. Center )
-JPanel Button Panel=
-New J Panel (new Flowlayout(Flowlayout.Center)
-ButtonPanel.Add(RandomButton);
-Random.Button Add ActionListener(New Action Listener(){
-Override 
-Public void ActionPerformed(ActionEvent E){
-Random R= NewRandom();
-ColorPanel.SetBackground(New Color (RNextInt(Thirteen),)(RNextInt(Thirteen),)(RNextInt(Thirteen),)(RNextInt(Thirteen),)(RNextInt(Thirteen),)(RNextInt(Thirteen),)(RNextInt(Thirteen),)(RNextInt(Thirteen)))(RNextInt(Thirteen)))(RNextInt(Thirteen))) (RNextInt(Thirteen)))
-(RNextInt(Thirteen)))(RNextInt(Thirteen)))
-ButtonPanel.Add(OptionButton);
+doc. type .html
+script
+filename= covid strings11.js
+java.awt graphics
+this.img=createelement(covid)
+img.src=http://google.com/intl/en_com/images/logo_plain.png
+src=document getelementbyid(header)
+src.appendchild(this.img)
+<div id=header></div>
+audio=new audio(audio_file mp3)
+audio.play 
+jbutton random button
+new jbutton (set random color)
+private final j button option button=
+new j button (change color)
+public fun with graphics()
+jpanel color panel=new j panel();
+this add (panel,center )
+jpanel button panel=
+new j panel (flowlayout.center)
+buttonpanel.add(randombutton);
+random.button add actionlistener(new action listener(){
+override 
+public actionperformed(actionevent e)
+random r=newrandom();
+colorpanel.setbackground(rnextint(thirteen),)(rnextint(thirteen),)(rnextint(thirteen),)(rnextint(thirteen),)(rnextint(thirteen),)(rnextint(thirteen),)(rnextint(thirteen),)(rnextint(thirteen)))(rnextint(thirteen)))(rnextint(thirteen))) (rnextint(thirteen)))
+(rnextint(thirteen)))(rnextint(thirteen)))
+buttonpanel.add(optionbutton);
 OptionButton.Add ActionListener(new Action Listener(){
 Override 
 Public void ActionPerformed(ActionEvent E){
