@@ -79,23 +79,23 @@ you+should+not+expect+to+be+at+an+attractive+hospital+either
 one+positive+thing+is+the+idea+of+cardboard+cutouts+replacing+people
 this+has+happened+in+sports+and+entertainment
 it+has+even+happened+with+back+to+school]
-covid strings11 math problems list=[if vladimir putin was caught on a hot mic saying that the reason for the ukraine war was because of the fact that oil prices would increase by two hundred percent with his bank account getting one twentieth of his countrys revenue, if the amount of money gained was eight point eight million how much did putin personally gain?,if putins official salary is one hundred thousand dollars how much money would be added to the oil money gains?,if joe biden said that putins remark is despicable that any war should be done to increase ones wealth if the War Has Gone On For Two Years How Much Money Has Putin Obtained?,If THRITY-seven percent of americans believe that putins logic eased the supply chain crisis how many dont?,if the margin of error is two point two-five percent what is the range?,if+new+cdc+guidance+suggests+that+you+are+fifty-seven+percent+more+likely+to+get+covid+on+a+plane+what+is+the+chance+that+it+doesnt+matter?,If+the+cdc+updated+its+guidelines+to+say+that+the+safest+way+to+travel+for+the+holidays+is+driving+if+fourty-two+percent+of+americans+plan+to+travel+this+way+how+many+americans+arent?,if+thirty+percent+of+the+fifty-eight+percent+say+they+will+just+stay+home+what+is+the+percent?,if+seventy-five+percent+of+the+fifty-eight+percent+say+they+will+travel+by+plane+if+the+amount+of+physical+distancing+is+sixft+is+it+safe?] 
-Covid Strings Sentence List11=[No One Should Use War As A Means To Jack Up Oil,Vladimir Putins Fear Of Covid Extends to oil as well “, ”it is obvious that any shock to the system makes the supply chain crisis worse”,“traveling”+”by”+”plane”+”with”+”covid”+”is”+”insane”  ,“carboard”+”cutouts”+”are”+”only”+”good”+”for”+”covid”+”times” ]
-String.Split   
-Arrays.AsList(List<String>)
-For (String SS:Arr){
-System.OutprintIn(Ss)
-Import Java Util.Scanner
-Import Java.Util
-Questions[]Questions={
-Collections.Shuffle(Arrays.Aslist(Questions)
-Question .Bonus1=(If Vladimir Putin Was Replaced With Xi Jinping Would The Meaning Of The Phrase Fear Of Covid Extends To Oil Change?)
-Userin.Select Team
-Import Meta.
-Class MyClass
-Constructor (Non-Concatenated)
-Return Category
-If Category==Math Problem:
+covid strings11 math problems list=[if vladimir putin was caught on a hot mic saying that the reason for the ukraine war was because of the fact that oil prices would increase by two hundred percent with his bank account getting one twentieth of his countrys revenue, if the amount of money gained was eight point eight million how much did putin personally gain?,if putins official salary is one hundred thousand dollars how much money would be added to the oil money gains?,if joe biden said that putins remark is despicable that any war should be done to increase ones wealth if the war has gone on for two years how much money has putin obtained?,if thirty-seven percent of americans believe that putins logic eased the supply chain crisis how many dont?,if the margin of error is two point two-five percent what is the range?,if+new+cdc+guidance+suggests+that+you+are+fifty-seven+percent+more+likely+to+get+covid+on+a+plane+what+is+the+chance+that+it+doesnt+matter?,if+the+cdc+updated+its+guidelines+to+say+that+the+safest+way+to+travel+for+the+holidays+is+driving+if+fourty-two+percent+of+americans+plan+to+travel+this+way+how+many+americans+arent?,if+thirty+percent+of+the+fifty-eight+percent+say+they+will+just+stay+home+what+is+the+percent?,if+seventy-five+percent+of+the+fifty-eight+percent+say+they+will+travel+by+plane+if+the+amount+of+physical+distancing+is+sixft+is+it+safe?] 
+covid strings sentence list11=[no one should use war as a means to jack up oil,vladimir putins fear of covid extends to oil as well“, ”it is obvious that any shock to the system makes the supply chain crisis worse”,“traveling”+”by”+”plane”+”with”+”covid”+”is”+”insane”  ,“carboard”+”cutouts”+”are”+”only”+”good”+”for”+”covid”+”times” ]
+string.split   
+arrays.aslist(list<string>)
+for (string ss:arr)
+system.outprintin(ss)
+java util.scanner
+java.util
+questions[]questions={
+collections.shuffle(arrays.aslist(questions)
+question.bonus1=(if vladimir putin was replaced with xi jinping would the meaning of the phrase fear of covid extends to oil change?)
+userin.select team
+import meta.
+class myclass
+constructor(non-concatenated)
+return category
+if category==math problem:
 prompt
 log
 else:
