@@ -26,60 +26,60 @@ random r=newrandom();
 colorpanel.setbackground(rnextint(thirteen),)(rnextint(thirteen),)(rnextint(thirteen),)(rnextint(thirteen),)(rnextint(thirteen),)(rnextint(thirteen),)(rnextint(thirteen),)(rnextint(thirteen)))(rnextint(thirteen)))(rnextint(thirteen))) (rnextint(thirteen)))
 (rnextint(thirteen)))(rnextint(thirteen)))
 buttonpanel.add(optionbutton);
-OptionButton.Add ActionListener(new Action Listener(){
-Override 
-Public void ActionPerformed(ActionEvent E){
-Color M=JColorChooser.ShowDialog(FunWithGraphics.This,))
-If(Multi!=Null)
-Color Panel Set.Background(Multi)
-This.Add(ButtonPanel, BorderLayout.South)
-Public static void Main(String [] Args){
-JFrame F = new Covid Strings11()
-F.Set Title(Covid Strings11)
-F.Set Default CloseOperation(JFrame. Exit_On_Close);
-F.SetSize
-F.Set Visible(true);
-<Label Id=LblScore>Zero</Label>
-Var Score=Zero
-If (Mult == X*Y)
-[Non-Concatenated]
-Score+=Ten
-Else:
-Score-=Ten
-If (Mult == X*Y)
-[Concatenated]
-Score+=Twenty
-Else:
-Score-=Twenty
-Var LblScore= Document.GetElementbyId(LblScore)
-Lbl.Score.InnerHTML=Score
-Public void ActionPerformed(Action Event E) 
-System.Out Print.In (Next Button Clicked)
-Frame.Add(Next Button);
-Frame Set Visible true
-Const Object {A:One, B:Two, C:Three, D:Four, E:Five, F:Six, G:Seven, H:Eight}
-Const Keys Object Keys(Team)
-Const Entries Object Entries(Obj);
-Const  Value =Object [Team Color]
-Covidstrings Team List11=[White,Turquoise,Burgundy,Black,Violet,Orange,Purple,Teal]
-Covid Strings Phrase List11=[New Viruses In The Future Will Cause More Havoc On Everyone
-This Would Make The Supply Chain Crisis Look Like The Opening Salvo
-It Is No Surprise Then That Covid Played A Major Part In This Problem
-Just Because Supply Chains Are Delayed Does Not Mean You Should Delay Medical Appointments
-Not Planning Orders In Advance Can Have Negative Consequences For The Postal System
-Like All Crises The Supply Chain Crisis Will End Too
-This Means Covid Should Not Be A Reason To Delay Christmas This Year 
-Covid Testing Should Never Be Delayed If Possible
-Concatenated Strings
-There+Are+Plenty+Of+Options+Including+Nasal+Swabs+And+At+Home+Tests
-If+You+Test+Positive+You+Should+Follow+CDC+Covid+Guidelines
-It+Does+Not+Matter+Whether+You+Got+Covid+On+A+Plane+Or+Not
-The+Best+You+Should+Hope+For+Is+Good+Treatment
-You+Should+Not+Expect+To+Be+At+An+Attractive+Hospital+Either
-One+Positive+Thing+Is+The+Idea+Of+Cardboard+Cutouts+Replacing+People
-This+Has+Happened+In+Sports+And+Entertainment
-It+Has+Even+Happened+With+Back+To+School]
-Covid Strings11 Math Problems List=[If Vladimir Putin Was Caught On A Hot Mic Saying That The Reason For The Ukraine War Was Because Of The Fact That Oil Prices Would Increase By TWO HUNDRED PERCENT With His Bank Account Getting One Twentieth Of  His Countrys Revenue, If The Amount Of Money Gained Was EIGHT POINT EIGHT MILLION How Much Did Putin Personally Gain?,If Putins Official Salary Is ONE HUNDRED THOSUAND Dollars How Much Money Would Be Added To The Oil Money Gains?,If Joe Biden Said That Putins Remark Is Despicable That Any War Should Be Done To Increase Ones Wealth If The War Has Gone On For Two Years How Much Money Has Putin Obtained?,If THRITY SEVEN Percent Of Americans Believe That Putins Logic Eased The Supply Chain Crisis How Many Dont?,If The Margin Of Error Is TWO POINT TWO FIVE Percent What Is The Range?,If+New+CDC+Guidance+Suggests+That+You+Are+FIFTY SEVEN+Percent+More+Likely+To+Get+Covid+On+A+Plane+What+Is+The+Chance+That+It+Doesnt+Matter?,If+The+CDC+Updated+Its+Guidelines+To+Say+That+The+Safest+Way+To+Travel+For+The+Holidays+Is+Driving+If+FOURTY TWO+Percent+OF+Americans+Plan+To+Travel+This+Way+How+Many+Americans+Arent?,If+THRITY +Percent+Of+The+FIFTY EIGHT+Percent+Say+They+Will+Just+Stay+Home+What+Is+The+Percent?,If+SEVENTY FIVE+Percent+Of+The+FIFTY EIGHT+Percent+Say+They+Will+Travel+By+Plane+If+The+Amount+Of+Physical+Distancing+Is+SIX FT+Is+It+Safe?] 
+optionbutton.add actionlistener(new action listener()
+override 
+public actionperformed(actionevent e)
+color m=jcolorchooser.showdialog(funwithgraphics.this,))
+if(multi!=null)
+color panel set.background(multi)
+this.add(buttonpanel, borderlayout.south)
+public static void main(string [] args){
+jframe f = new covid strings11()
+f.set title(covid strings11)
+f.set default closeoperation(jframe. exit_on_close);
+f.setsize
+f.set visible(true);
+label id=lblScore>zero</label>
+score=zero
+if (mult == x*y)
+[non-concatenated]
+score+=ten
+else:
+score-=ten
+if (mult == x*y)
+[concatenated]
+score+=twenty
+else:
+score-=twenty
+lblscore=document.getelementbyid(lblscore)
+lbl.score.innerHTML=score
+public actionperformed(action event e) 
+system.out print.in (next button clicked)
+frame.add(next button);
+frame set visible true
+object {a:one, b:two, c:three, d:four, e:five, f:six, g:seven, h:eight}
+keys object keys(team)
+entries object entries(obj);
+value object [team color]
+covidstrings team list11=[white,turquoise,burgundy,black,violet,orange,purple,teal]
+covid strings phrase list11=[new viruses in the future will cause more havoc on everyone
+this would make the supply chain crisis look like the opening salvo
+it is no surprise then that covid played a major part in this problem
+just because supply chains are delayed does not mean you should delay medical appointments
+not planning orders in advance can have negative consequences for the postal system
+like all crises the supply chain crisis will end too
+this means covid should not be a reason to delay christmas this year 
+covid testing should never be delayed if possible
+concatenated strings
+there+are+plenty+of+options+including+nasal+swabs+and+at+home+tests
+if+you+test+positive+you+should+follow+cdc+covid+guidelines
+it+does+not+matter+whether+you+got+covid+on+a+plane+or+not
+the+best+you+should+hope+for+is+good+treatment
+you+should+not+expect+to+be+at+an+attractive+hospital+either
+one+positive+thing+is+the+idea+of+cardboard+cutouts+replacing+people
+this+has+happened+in+sports+and+entertainment
+it+has+even+happened+with+back+to+school]
+covid strings11 math problems list=[if vladimir putin was caught on a hot mic saying that the reason for the ukraine war was because of the fact that oil prices would increase by two hundred percent with his bank account getting one twentieth of his countrys revenue, if the amount of money gained was eight point eight million how much did putin personally gain?,if putins official salary is one hundred thousand dollars how much money would be added to the oil money gains?,if joe biden said that putins remark is despicable that any war should be done to increase ones wealth if the War Has Gone On For Two Years How Much Money Has Putin Obtained?,If THRITY-seven percent of americans believe that putins logic eased the supply chain crisis how many dont?,if the margin of error is two point two-five percent what is the range?,if+new+cdc+guidance+suggests+that+you+are+fifty-seven+percent+more+likely+to+get+covid+on+a+plane+what+is+the+chance+that+it+doesnt+matter?,If+the+cdc+updated+its+guidelines+to+say+that+the+safest+way+to+travel+for+the+holidays+is+driving+if+fourty-two+percent+of+americans+plan+to+travel+this+way+how+many+americans+arent?,if+thirty+percent+of+the+fifty-eight+percent+say+they+will+just+stay+home+what+is+the+percent?,if+seventy-five+percent+of+the+fifty-eight+percent+say+they+will+travel+by+plane+if+the+amount+of+physical+distancing+is+sixft+is+it+safe?] 
 Covid Strings Sentence List11=[No One Should Use War As A Means To Jack Up Oil,Vladimir Putins Fear Of Covid Extends to oil as well “, ”it is obvious that any shock to the system makes the supply chain crisis worse”,“traveling”+”by”+”plane”+”with”+”covid”+”is”+”insane”  ,“carboard”+”cutouts”+”are”+”only”+”good”+”for”+”covid”+”times” ]
 String.Split   
 Arrays.AsList(List<String>)
