@@ -2,6 +2,9 @@ doc.type html
 script
 html
 head
+utf8
+viewport content=width=device-width, initial-scale=one>
+title covidstrings 11 second round bracket
 filename=covid strings11 second round.js
 highest remaining seed=(greatest remaining num value in covid strings list)
 lowest remaining seed = (lowest remaining num value in covid strings list)
