@@ -33,10 +33,10 @@ else
 return math floor total players/players per team
 teamsgrouping=(rnextint8)(rnextint8)(rnextint8)(rnextint8)(rnextint8)(rnextint8)(rnextint8)
 buttonpanel.add(optionbutton);
-optionbutton.add actionlistener(new action listener()
+optionbutton.add actionlistener(new action listener)
 override 
 public actionperformed(actionevent e)
-color m=jcolorchooser.showdialog(funwithgraphics.this,))
+color m=jcolorchooser.showdialog(funwithgraphics.this)
 if(multi!=null)
 color panel set.background(multi)
 this.add(buttonpanel, borderlayout.south)
