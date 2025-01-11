@@ -19,7 +19,7 @@ add (panel,center )
 jpanel button panel=
 new j panel (flowlayout.center)
 buttonpanel.add(randombutton);
-random.button add actionlistener(new action listener(){
+random.button add actionlistener(new action listener)
 override 
 public actionperformed(actionevent e)
 random r=newrandom();
@@ -69,18 +69,18 @@ keys object keys(team)
 entries object entries(obj);
 value object [team color]
 covidstrings team list11=[white transit angels ,turquoise waves ,burgundy rebuilders ,black night riders ,violet relivers ,orange rna messengers,purple brave hearts,teal terminators]
-covid strings phrase list11=[new viruses in the future will cause more havoc on everyone
-this would make the supply chain crisis look like the opening salvo
-it is no surprise then that covid played a major part in this problem
-just because supply chains are delayed does not mean you should delay medical appointments
-not planning orders in advance can have negative consequences for the postal system
-like all crises the supply chain crisis will end too
-this means covid should not be a reason to delay christmas this year 
-covid testing should never be delayed if possible
+covid strings phrase list11=[ non-concatenated strings "new viruses in the future will cause more havoc on everyone"
+"this would make the supply chain crisis look like the opening salvo"
+"it is no surprise then that covid played a major part in this problem"
+"just because supply chains are delayed does not mean you should delay medical appointments"
+"not planning orders in advance can have negative consequences for the postal system"
+"like all crises the supply chain crisis will end too"
+"this means covid should not be a reason to delay christmas this year" 
+"covid testing should never be delayed if possible"
 concatenated strings
-there+are+plenty+of+options+including+nasal+swabs+and+at+home+tests
-if+you+test+positive+you+should+follow+cdc+covid+guidelines
-it+does+not+matter+whether+you+got+covid+on+a+plane+or+not
+"there"+"are"+"plenty"+"of"+"options"+"including"+"nasal"+"swabs"+"and"+"at"+"home"+"tests"
+"if"+"you"+"test"+"positive"+"you"+"should"+"follow"+"cdc"+"covid"+"guidelines"
+"it"+"does"+"not"+"matter"+"whether"+"you"+"got"+"covid"+"on"+"a"+"plane"+"or"+"not"
 the+best+you+should+hope+for+is+good+treatment
 you+should+not+expect+to+be+at+an+attractive+hospital+either
 one+positive+thing+is+the+idea+of+cardboard+cutouts+replacing+people
