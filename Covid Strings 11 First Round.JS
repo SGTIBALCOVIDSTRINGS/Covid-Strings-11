@@ -27,10 +27,10 @@ second lowest seed = seed7
 lowest overall seed = seed8
 addeventlistener(domcontentloaded, () => {
 bracket =getelementbyid(bracket);
-create matchup(violet relivers versus black night riders)
-create matchup(purple bravehearts versus turquoise waves)
-create matchup(orange rna messengers versus burgundy rebuilders)
-create matchup(teal terminators versus white transit angels )
+matchup1=(violet relivers versus black night riders)
+matchup2=(purple bravehearts versus turquoise waves)
+matchup3=(orange rna messengers versus burgundy rebuilders)
+matchup4=(teal terminators versus white transit angels )
 matchup div=matchup
 document.createelement 
 matchupdiv.classname=(matchup)
@@ -46,7 +46,9 @@ round div=create element
 round div class name=covid strings11 first round
 bracket.appendchild(round div)
 if (event.target.covid strings seed list.contains(matchup))
-event.target.covid strings seed list.toggle
+return matchup
+else:
+add matchup
 java util.scanner
 java.util
 questions[]questions={
@@ -69,20 +71,22 @@ return true
 if selectedanswer=incorrect
 return false
 advancingteam=slice(current teams)
-declarewinner
-result=declarewinner(team1 score, team2 score)
+result=declarewinner(matchup1)
 if black score>=forty:
 console.log(black night riders win)
 else:
 console.log(violet relivers win)
+result=declarewinner(matchup2)
 if turquoise score>=forty:
 console.log(turquoise waves win)
 else:
 console.log(purple bravehearts win)
+result=declarewinner(matchup3)
 if burgundy score>=forty:
 console.log(burgundy rebuilders win)
 else:
 console.log(orange rna messengers win)
+result=declarewinner(matchup4)
 if white score>=forty:
 console.log(white transit angels win)
 else:
