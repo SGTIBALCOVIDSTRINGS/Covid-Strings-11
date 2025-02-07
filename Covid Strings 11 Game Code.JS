@@ -11,13 +11,13 @@ audio=new audio(audio_file mp3)
 audio.play 
 random button
 new button (set random color)
-private final j button option button=
+option button
 new button (change color)
 public fun with graphics()
 color panel=new j panel();
 add (panel,center )
-jpanel button panel=
-new j panel (flowlayout.center)
+button panel
+new  panel (flowlayout.center)
 buttonpanel.add(randombutton);
 random.button add actionlistener(new action listener)
 override 
@@ -141,7 +141,7 @@ answer checker
 scanner=new scanner(system.in)
 string correct answer
 string useranswer=scanner.nextline()
-if useranswer.equals((correctanswer))
+if useranswer.equals(correctanswer)
 system.out.print.in(correct)
 else:
 system.out.printin(incorrect)
