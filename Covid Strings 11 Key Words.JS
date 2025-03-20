@@ -7,52 +7,52 @@ for string in covid strings search word list
 select characters
 edit diffuse property
 desired color=green
-covid strings 11 reference list=[a:what happened to supply chains in 2021? |council on foreign relations(cfr.org),b:watch out of stock:supply chain crisis online |season 1 (2021) |tv guide,c:nasal swab:medlineplus medical test,self-testing at home or anywhere |cdc,d:the biggest threat:new viruses that could ignite another pandemic(essanews.com),e:noah kahan stick season lyrics |genius lyrics,f:cdc_100421_ds1.pdf,g:pandemic caused perfect storm for supply chain crisis,experts say|supply chain crisis |the guardian,h:self-testing at home or anywhere |cdc,i:isolation and precautions for people with covid-19 |cdc,j:failure to change threatens the future of u.s. healthcare system (forbes.com),k:the us health care system will be worse after the covid-19 pandemic -vox,l:snl:megan thee stallion hosts,raps,works at hot girl hospital(usatoday.com),m:medical visits you shouldnt skip,even if covid-19 cases are surging :shots-health news :npr,n:conan obrien is looking to add cardboard cutouts to his audience (Uproxx.Com),O:USPS Struggles To Deliver Mail By Christmas - The Washington Post,P:USPS Holiday Shipping And Mailing Deadlines Announced - Newsroom - About.Usps.Com,Q:The End Of The Supply Chain Crisis Provides Inflation Relief (Forbes.Com),R: Conan OBrien Adds MLB Cutouts To Largo Theater Audience  The Hollywood Reporter, S: As Sports Resume, Some Fans Will Be Made Of Cardboard (Cnbc.Com),T: Coronavirus: We Should Absolutely Not Delay Christmas, Prof Jack Lambert Says | Newstalk,U: Teacher Gets Crafty With Cardboard Cutouts Of Students After School Goes Virtual For Fall Semester(Yahoo.Com),V: The lost month: how a failure to test blinded the u.s. to covid-19 - the new york times (nytimes.com),w:meet conans cardboard cutout audience |conan on tbs (youtube.com)]
-Asset=This App.Assets.Find()
-Template Asset Resource 
-Entity Template Instanite
-Entity Script Foobar =This Entity
-Entity Reparnet (This.Entity)
-A =Pc.CreateScript(A);
-A.Attributes.Add(Foobar, { Type: Entity});
-A.Prototype.Initialize =Function() {
-Console.Log(This.Foobar.Name);
-Asset=This App.Assets.Find()
-Template Asset Resource 
-Entity Template Instanite
-Entity Script Foobar =This Entity
-Entity Reparnet (This.Entity)
-B =Pc.CreateScript(B);
-B.Attributes.Add(Foobar, { Type: Entity});
-B.Prototype.Initialize =Function() {
-Console.Log(This.Foobar.Name);
-Asset=This App.Assets.Find()
-Template Asset Resource 
-Entity Template Instanite
-Entity Script Foobar =This Entity
-Entity Reparnet (This.Entity)
-C =Pc.CreateScript(C);
-C.Attributes.Add(Foobar, { Type: Entity});
-C.Prototype.Initialize =Function() {
-Console.Log(This.Foobar.Name);
-Asset=This App.Assets.Find()
-Template Asset Resource 
-Entity Template Instanite
-Entity Script Foobar =This Entity
-Entity Reparnet (This.Entity)
-D=Pc.CreateScript(D);
-D.Attributes.Add(Foobar, { Type: Entity});
-D.Prototype.Initialize =Function() {
-Console.Log(This.Foobar.Name);
-Asset=This App.Assets.Find()
-Template Asset Resource 
-Entity Template Instanite
-Entity Script Foobar =This Entity
-Entity Reparnet (This.Entity)
-E =Pc.CreateScript(E);
-E.Attributes.Add(Foobar, { Type: Entity});
-E.Prototype.Initialize =Function() {
-Console.Log(This.Foobar.Name);
+covid strings 11 reference list=[a:what happened to supply chains in 2021? |council on foreign relations(cfr.org),b:watch out of stock:supply chain crisis online |season 1 (2021) |tv guide,c:nasal swab:medlineplus medical test,self-testing at home or anywhere |cdc,d:the biggest threat:new viruses that could ignite another pandemic(essanews.com),e:noah kahan stick season lyrics |genius lyrics,f:cdc_100421_ds1.pdf,g:pandemic caused perfect storm for supply chain crisis,experts say|supply chain crisis |the guardian,h:self-testing at home or anywhere |cdc,i:isolation and precautions for people with covid-19 |cdc,j:failure to change threatens the future of u.s. healthcare system (forbes.com),k:the us health care system will be worse after the covid-19 pandemic -vox,l:snl:megan thee stallion hosts,raps,works at hot girl hospital(usatoday.com),m:medical visits you shouldnt skip,even if covid-19 cases are surging :shots-health news :npr,n:conan obrien is looking to add cardboard cutouts to his audience (uproxx.com),o:usps struggles to deliver mail by christmas -the washington post,p:usps holiday shipping and mailing deadlines announced -newsroom -about.usps.com,q:the end of the supply chain crisis provides inflation relief (forbes.com),r:conan obrien adds mlb cutouts to largo theater audience  the hollywood reporter,s:as sports resume, some fans will be made of cardboard (cnbc.com),t:coronavirus:we should absolutely not delay christmas,prof jack lambert says|newstalk,u:teacher gets crafty with cardboard cutouts of students after school goes virtual for fall semester(yahoo.com),v:the lost month: how a failure to test blinded the u.s. to covid-19 - the new york times (nytimes.com),w:meet conans cardboard cutout audience |conan on tbs (youtube.com)]
+asset=this app.assets.find()
+template asset resource 
+entity template instantiate
+entity script foobar =this entity
+entity reparnet (this.entity)
+a=pc.create script(a);
+a.attributes.add(foobar,{type:entity});
+a.prototype.initialize=function() 
+console.log(this.foobar.name);
+asset=this app.assets.find()
+template asset resource 
+entity template instantiate
+entity script foobar=this entity
+entity reparnet (this.entity)
+b=pc.create script(b);
+b.attributes.add(foobar,{type:entity});
+b.prototype.initialize=function() 
+console.log(this.foobar.name);
+asset=this app.assets.find()
+template asset resource 
+entity template instantiate
+entity script foobar =this entity
+entity reparnet (this.entity)
+c=pc.create script(c);
+c.attributes.add(foobar,{type:entity});
+c.prototype.initialize =function() 
+console.log(this.foobar.name);
+asset=this app.assets.find()
+template asset resource 
+entity template instantiate
+entity script foobar =this entity
+entity reparnet (this.entity)
+d=pc.create script(d);
+d.attributes.add(foobar,{type:entity});
+d.prototype.initialize =function()
+console.log(this.foobar.name);
+asset=this app.assets.find()
+template asset resource 
+entity template instantiate
+entity script foobar=this entity
+entity reparnet (this.entity)
+e=pc.create script(e);
+e.attributes.add(foobar, {type:entity});
+e.prototype.initialize=function() 
+console.log(this.foobar.name);
 asset=this app.assets.find()
 template asset resource 
 entity template instantiate
