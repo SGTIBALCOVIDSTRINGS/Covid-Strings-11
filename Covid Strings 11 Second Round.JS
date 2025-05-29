@@ -6,7 +6,7 @@ header.style.backgroundcolor=#4caf50
 header.style.color=’white’
 header.style.padding=’10px’
 header.style.textalign=’center’
-header.style.text.FontSize=’24Px’
+header.style.text.fontsize=’24Px’
 header.textcontent=’welcome to covid strings11 second round’
 document appendchild(header)
 heading1=second round overview
