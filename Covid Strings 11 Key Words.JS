@@ -219,7 +219,7 @@ entity script foobar=this entity
 entity reparnet (this.entity)
 u=pc.create script(u);
 u.attributes.add(foobar,{type:entity});
-u.Prototype.Initialize =function()
+u.prototype.initialize =function()
 console.log(this.foobar.name);
 asset=this app.assets.find()
 template asset resource 
