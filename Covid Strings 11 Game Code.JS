@@ -106,7 +106,8 @@ covidstrings team list11=[white transit angels ,turquoise waves ,burgundy rebuil
 <header.html>
 phrases
 phrases that involve both non-concatenated and concatenated strings 
-covid strings phrase list11=[ non-concatenated strings "new viruses in the future will cause more havoc on everyone","this would make the supply chain crisis look like the opening salvo"
+covid strings phrase list11=[ non-concatenated strings 
+"new viruses in the future will cause more havoc on everyone","this would make the supply chain crisis look like the opening salvo"
 "it is no surprise then that covid played a major part in this problem","just because supply chains are delayed does not mean you should delay medical appointments"
 "not planning orders in advance can have negative consequences for the postal system","like all crises the supply chain crisis will end too"
 "this means covid should not be a reason to delay christmas this year","covid testing should never be delayed if possible"
@@ -115,19 +116,107 @@ concatenated strings
 "it"+"does"+"not"+"matter"+"whether"+"you"+"got"+"covid"+"on"+"a"+"plane"+"or"+"not","the"+"best"+"you"+"should"+"hope"+"for"+"is"+"good"+"treatment"
 "you"+"should"+"not"+"expect"+"to"+"be"+"at"+"an"+"attractive"+"hospital"+"either","one"+"positive"+"thing"+"is"+"the"+"idea"+"of"+"cardboard"+"cutouts"+"replacing"+"people"
 "this"+"has"+"happened"+"in"+"sports"+"and"+"entertainment","it"+"has"+"even"+"happened"+"with"+"back"+"to"+"school"]
-multiple choice list 11=  [1a salvo  b act  c man-made disaster  d science channel autopsy,2a no b some c too many d plenty,3a march madness upsets  b wars c viruses d  forest fires,4a jump rope b train c plane  d car,5 a doubt b slight of hand c gin rummy  d surprise,6a nih b cdc  c obama pandemic prevention agency d herd immunity,7a expect b desire c scream  d hope,8 a hospital  b car dealership c rehab facility d collision shop,9 a road test  b homework c taxes d medical appointments,10a sight b idea c asinine idea  d covid safe fan enjoyment,11a publishing b installment buying c orders d your wedding,12a supply chain b 2008 recession c january 6th  d covid,13” a loony tunes b politics c sports d the environment,14a thanksgiving b easter c halloween  d christmas,15a the oscars  b conan o’brien’s show c the office d back to school,16 a delayed b accelerated c thrown in a furnace d ignored,17a insane   b a bucket list item c a stunt on jackass  d a death wish,18a natural gas  b geothermal  c biomass d oil,19a the holiday season b covid c bird flu d airports being attacked,20 a nuclear fusion  b democracy  c the arts  d oil d seems to be the subject,21a supply chain  b covid  c america’s declining lifespan d republican party’s,22a yes  b no c neither 
-covid strings11 math problems list=[ non-concatenated "if vladimir putin was caught on a hot mic saying that the reason for the ukraine war was because of the fact that oil prices would increase by two hundred percent with his bank account getting one twentieth of his countrys revenue, if the amount of money gained was eight point eight million how much did putin personally gain"?,"if putins official salary is one hundred thousand dollars how much money would be added to the oil money gains"?,"if joe biden said that putins remark is despicable that any war should be done to increase ones wealth if the war has gone on for two years how much money has putin obtained"?,"if thirty-seven percent of americans believe that putins logic eased the supply chain crisis how many dont"?,"if the margin of error is two point two-five percent what is the range"?, concatenated "if"+"new"+"cdc"+"guidance"+"suggests"+"that"+"you"+"are"+"fifty-seven"+"percent"+"more"+"likely"+"to"+"get"+"covid"+"on"+"a"+"plane"+"what"+"is"+"the"+"chance"+"that"+"it"+"doesnt"+"matter"?,"if"+"the"+"cdc"+"updated"+"its"+"guidelines"+"to"+"say"+"that"+"the"+"safest"+"way"+"to"+"travel"+"for"+"the"+"holidays"+"is"+"driving"+"if"+"fourty-two"+"percent"+"of"+"americans"+"plan"+"to"+"travel"+
-"this"+"way"+"how"+"many"+"americans"+"arent"?,"if"+"thirty"+"percent"+"of"+"the"+"fifty-eight"+"percent"+"say"+"they"+"will"+"just"+"stay"+"home+"what"+"is"+"the"+"percent"?,"if"+"seventy-five"+"percent"+"of"+"the"+"fifty-eight"+"percent"+"say"+"they"+"will"+"travel"+"by"+"plane"+"if"+"the"+"amount"+"of"+"physical"+"distancing"+"is"+"sixft"+"is"+"it"+"safe"?] 
+string manager{non-concatenated}
+insert string (entity,string)
+entity.element.text=string
+string manager insert string
+string manager{concatenated}
+insert string(entity,string)
+entity.element.text=string
+string manager insert string
+string=””
+for string in covid strings phrase list11 
+select characters
+edit diffuse property
+desired color=green
+<header.html>
+multiple choice questions 
+multiple choice questions and answers that will appear in covid strings11
+multiple choice list 11= [1a salvo  b act  c man-made disaster  d science channel autopsy,2a no b some c too many d plenty,3a march madness upsets  b wars c viruses d  forest fires,4a jump rope b train c plane  d car,5 a doubt b slight of hand c gin rummy  d surprise,6a nih b cdc  c obama pandemic prevention agency d herd immunity,7a expect b desire c scream  d hope,8 a hospital  b car dealership c rehab facility d collision shop,9 a road test  b homework c taxes d medical appointments,10a sight b idea c asinine idea  d covid safe fan enjoyment,11a publishing b installment buying c orders d your wedding,12a supply chain b 2008 recession c january 6th  d covid,13” a loony tunes b politics c sports d the environment,14a thanksgiving b easter c halloween  d christmas,15a the oscars  b conan o’brien’s show c the office d back to school,16 a delayed b accelerated c thrown in a furnace d ignored,17a insane   b a bucket list item c a stunt on jackass  d a death wish,18a natural gas  b geothermal  c biomass d oil,19a the holiday season b covid c bird flu d airports being attacked,20 a nuclear fusion  b democracy  c the arts  d oil d seems to be the subject,21a supply chain  b covid  c america’s declining lifespan d republican party’s,22a yes  b no c neither 
+<header.html>
+math problems
+covid related math problems that will appear in covid strings11
+covid strings11 math problems list=[non-concatenated strings "if vladimir putin was caught on a hot mic saying that the reason for the ukraine war was because of the fact that oil prices would increase by two hundred percent with his bank account getting one twentieth of his countrys revenue, if the amount of money gained was eight point eight million how much did putin personally gain"?,"if putins official salary is one hundred thousand dollars how much money would be added to the oil money gains"?,"if joe biden said that putins remark is despicable that any war should be done to increase ones wealth if the war has gone on for two years how much money has putin obtained"?,"if thirty-seven percent of americans believe that putins logic eased the supply chain crisis how many dont"?,"if the margin of error is two point two-five percent what is the range"?,]
+[concatenated strings "if"+"new"+"cdc"+"guidance"+"suggests"+"that"+"you"+"are"+"fifty-seven"+"percent"+"more"+"likely"+"to"+"get"+"covid"+"on"+"a"+"plane"+"what"+"is"+"the"+"chance"+"that"+"it"+"doesnt"+"matter"?,"if"+"the"+"cdc"+"updated"+"its"+"guidelines"+"to"+"say"+"that"+"the"+"safest"+"way"+"to"+"travel"+"for"+"the"+"holidays"+"is"+"driving"+"if"+"fourty-two"+"percent"+"of"+"americans"+"plan"+"to"+"travel"+"this"+"way"+"how"+"many"+"americans"+"arent"?,"if"+"thirty"+"percent"+"of"+"the"+"fifty-eight"+"percent"+"say"+"they"+"will"+"just"+"stay"+"home+"what"+"is"+"the"+"percent"?,"if"+"seventy-five"+"percent"+"of"+"the"+"fifty-eight"+"percent"+"say"+"they"+"will"+"travel"+"by"+"plane"+"if"+"the"+"amount"+"of"+"physical"+"distancing"+"is"+"sixft"+"is"+"it"+"safe"?] 
+string manager{non-concatenated}
+insert string (entity,string)
+entity.element.text=string
+string manager insert string
+string manager{concatenated}
+insert string(entity,string)
+entity.element.text=string
+string manager insert string
+string=””
+for string in covid strings11 math problems list 
+select characters
+edit diffuse property
+desired color=green
+public static main(string []args)
+int number
+number=number*2
+system.out print in (“the number is“ +number)
+<subheading.html>
+polling problems
+math problems that involve the use of polls
+polling function (exact,number)
+console log(exact:${exact},number:${number},
+if polling function log== (exact,number)
+return true
+else:
+return false
+if polling function log==(number,exact)
+return false
+else:
+return true  
+for math problems in covid strings math problem list 
+if math problem==polling percent:
+subtract exact from 100
+else:
+remain 
+if math problem==margin of error:
+add and subtract exact number 
+else:
+remain 
+<header.html>
+sentences
+covid related sentences that will appear in covid strings11
 covid strings sentence list11=["no one should use war as a means to jack up oil","vladimir putins fear of covid extends to oil as well“, ”it is obvious that any shock to the system makes the supply chain crisis worse”,“traveling”+”by”+”plane”+”with”+”covid”+”is”+”insane”  ,“carboard”+”cutouts”+”are”+”only”+”good”+”for”+”covid”+”times” ]
+string manager{non-concatenated}
+insert string (entity,string)
+entity.element.text=string
+string manager insert string
+string manager{concatenated}
+insert string(entity,string)
+entity.element.text=string
+string manager insert string
+string=””
+for string in covid strings sentence list11 
+select characters
+edit diffuse property
+desired color=green
 string.split   
 arrays.aslist(list<string>)
 for (string ss:arr)
 system.outprintin(ss)
+<header.html>
+game code part2
+the rest of the game code excluding answer and winner checker
 java util.scanner
 java.util
-questions[]questions={
+questions=total# of questions from covid strings11 [first-championship round] 
 collections.shuffle(arrays.aslist(questions)
+public static main(string []args)
+int number
+number=number*2
+system.out print in (“the number is“ +number)
+<subheading.html>
+bonus question
+the extra question or questions that appear around the end of the game
 question.bonus1=("if vladimir putin was replaced with xi jinping would the meaning of the phrase fear of covid extends to oil change"?)
+for string in covid strings11 bonus question
+select characters
+edit diffuse property
+desired color=green
 userin.select team
 import meta.
 class myclass
@@ -143,7 +232,7 @@ select from multiple choice
 else
 prompt 
 log
-constmyclass=new.myclass(concatenated)
+myclass=new.myclass(concatenated)
 return category
 if category==math problem:
 prompt
@@ -157,7 +246,10 @@ prompt
 log
 import syntax 
 substring(start,end)
-userin.multiple choice
+<header.html>
+answer checker
+the feature within covid strings that allows the software to check whether a users answer is correct
+for multiple choice questions in covid strings 
 if selectedanswer==correct answer:
 return true
 else:
@@ -166,6 +258,22 @@ if selectedanswer=not correct
 return false
 else 
 return true
+for math problems in covid strings
+if typed answer ==correct
+return true
+else:
+return false
+if typed answer==not correct
+return false
+else
+return true
+public static main(string []args)
+int number
+number=number*2
+system.out print in (“the number is“ +number)
+<subheading.html>
+answer scanner
+the feature within the covid strings answer checker that allows for confirmation of the user 
 answer checker
 scanner=new scanner(system.in)
 string correct answer
@@ -175,14 +283,24 @@ system.out.print.in(correct)
 else:
 system.out.printin(incorrect)
 scanner.close
+<header.html>
+winner checker
+the feature within covid strings that allows for the player to know if their team won 
 check winner:
 if winner==true:
 log(the winner is)
+else:
+remain
 if winner==false:
 log(no winner yet) 
+else:
+log winner 
 if users team wins covid strings11 
 console log users team wins covid strings11 
 else
+remain
+if users team loses covid strings11
 return game over
+else
+remain
 return filename
-
