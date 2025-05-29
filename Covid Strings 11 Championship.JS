@@ -8,7 +8,7 @@ header.style.padding=’10Px’
 header.style.textAlign=’center’
 header.style.text.fontsize=’24px’
 header.textcontent=’welcome to covid strings11 championship round’
-document AppendChild(Header)
+document appendchild(header)
 <header.html>
 heading variables 
 the heading numbers that determine where each heading and subheading go 
@@ -56,6 +56,7 @@ the questions asked in the championship round of the covid strings contest
 java util.scanner
 java.util
 championship round questions=questions[25-33]
+collections.shuffle(arrays.aslist(questions)
 question25
 question26
 question27
@@ -95,30 +96,37 @@ team2=the higher seeded opponent
 points: 10 points or 20 points
 <subheading.html>
 team stealing
-steal points(stealingteam,VictimTeam,PointsToSteal)
-If(VictimTeam.Points>=PointToSteal)
-VictimTeam.Points-=PointToSteal;
-StealingTeamPoints+=PointsToSteal
-Console.Log([StealingTeam.Name} Stole Points From {Victim Team Name}!)
-Else:
-Console.Log({VictimTeam.Name} Doesnt Have Enough Points To Steal)
-If Teams Final  Answer==Incorrect:
-Opposing Team Steals
-Else:
-Change Covid Strings Matchup  Score
-Substring(Start,End)
-Userin.Multiple Choice
-If SelectedAnswer==Correct Answer:
-Return True
-Else:
-Return False
-<Header.Html>
-Victory
-Contains The Functions And Processes Necessary To Declare The Winning team
+steal points(stealingteam,victimteam,pointstosteal)
+if(victimteam.points>=pointtosteal)
+victimteam.points-=pointtosteal;
+stealingteampoints+=pointstosteal
+console.log([stealingteam.name} stole points from {victim team name}!)
+else:
+console.log({victimteam.name} doesnt have enough points to steal)
+if teams final  answer==incorrect:
+opposing team steals
+else:
+change covid strings matchup score
+substring(start,end)
+userin.multiple choice
+if selectedanswer==correct answer:
+return true
+else:
+return false
+<header.html>
+victory
+contains the functions and processes necessary to declare the winning team
 advanceteams=slice(currentteams)
+<subheading.html>
+result for championship matchup  
+the code for how to determine the end result of covid strings11 championship
 result=declarewinner(team1 score, team2 score)
 if team high seed score>=sixty:
 console.log(highest remaining seed wins covid strings11)
 else:
+remain
+if team low seed championship game score>=sixty:
 console.log(lowest remaining seed wins covid strings11)
+else:
+remain
 return filename
