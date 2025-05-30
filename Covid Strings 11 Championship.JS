@@ -66,6 +66,7 @@ question30
 question31
 question32
 question33
+class my class
 constructor (non-concatenated)
 return category
 if category==math problem:
