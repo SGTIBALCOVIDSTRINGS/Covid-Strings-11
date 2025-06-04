@@ -20,6 +20,15 @@ filename=covid strings 11 key words.js
 keywords
 key search words for covid strings11
 covid strings11 key word list=[supply chain crisis,nasal swab at home test,future cause more havoc,covid on or not,100-57,covid played a major part,test positive follow guidelines,good treatment,not expect attractive either does not mean delay,cardboard cutouts,negative consequences for postal system,all crisis end too,has happened in entertainment,covid not a means to delay,has even happened with,covid testing never should be if possible,cardboard cutouts good for times,]
+string manager non-concatenated
+insert string(entity,string)
+entity.element.text=string
+string manager insert string
+string=””
+string manager concatenated
+insert string(entity,string)
+entity.element.text=string
+string manager insert string
 string=””
 for string in covid strings search word list
 select characters
